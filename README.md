@@ -41,8 +41,8 @@ CryptoGraphy
 Mobile
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Mobile One	|  50 | | |
-| Pinocchio	|  100 | | |
+| Mobile One	|  50 | Oxy-Gendotmobi |https://www.oxy-gen.mobi/blog-ctf-hacktivity2020.html |
+| Pinocchio	|  100 | Oxy-Gendotmobi | https://www.oxy-gen.mobi/blog-ctf-hacktivity2020.html |
 | Just Not Interesting	|  300 | | |
 | Butterfly	|  300 | | |
 
