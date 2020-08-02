@@ -119,27 +119,27 @@ Scavenger Hunt
 | The Founding Fathers|  5  | | |
 | Flagsabound|  5  | | |
 | Recanted Tales From The Bay to London|  5  | | |
-| Million Dollar Jar of Mayo|  5  | | |
-| Like &amp; Subscribe|  5  | | |
-| One of us|  5  | | |
+| Million Dollar Jar of Mayo|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| Like &amp; Subscribe|  5  |@kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| One of us|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
 | The Finn'ishing Move|  5  | | |
-| The Streamer|  5  | | |
-| The Chosen One|  5  | | |
+| The Streamer|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| The Chosen One|  5  |@kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
 | Flag Not Found|  5  | | |
-| Hacker101 Discord|  5  | | |
+| Hacker101 Discord|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
 | Send me a flag and I'll double it|  5  | | |
-| The Social Media Influencer|  5  | | |
+| The Social Media Influencer|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
 | Hawaii Five-0|  5  | | |
-| Security Report Powered by Hackers|  5  | | |
-| Ride Share Disclosures|  5  | | |
-| Capture the Changelog|  5  | | |
+| Security Report Powered by Hackers|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| Ride Share Disclosures|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| Capture the Changelog|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
 | "https://ctf.hacktivitycon.com/in"|  5  |	 | |
-| Lights, Camera, Hacking!|  5  | | |
-| Find Me Treasure.xml|  5  | | |
-| _config.yml#35|  5  | | |
-| Pentesters Unite|  5  | | |
-| The Hacker101|  5  | | |
-| Security@|  5  | | |
+| Lights, Camera, Hacking!|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| Find Me Treasure.xml|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| _config.yml#35|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| Pentesters Unite|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| The Hacker101|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
+| Security@|  5  | @kohyouliang | https://isopach.dev/HacktivityCon-2020/ |
 
 Feedback
 | Challenge  | Reward points | Author | WriteUp Link |
