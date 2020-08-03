@@ -115,7 +115,7 @@ Scavenger Hunt
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | Domo Arigato|  5  | | 82 solves|
-| Carmen Sandiego Visits H1|  5  | 21 solves |
+| Carmen Sandiego Visits H1|  5  | | 21 solves |
 | The Founding Fathers|  5  | | 152 solves |
 | Flagsabound|  5  | |2 solves ! |
 | Recanted Tales From The Bay to London|  5  | | 6 solves |
