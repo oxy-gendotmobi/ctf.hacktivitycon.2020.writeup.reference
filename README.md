@@ -8,7 +8,7 @@ WEB
 | ------------- | ------------- |------------- | ------------- |
 | Ladybug	|  100 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br>https://7riple7hrea7.com/hacktivitycon/ctf/Ladybug-HacktivityCon-CTF/ | 
 | Bite		|  100 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br>https://7riple7hrea7.com/hacktivitycon/ctf/Bite-HacktivityCon-CTF/ | 
-| GI Joe		|  150 |  | |
+| GI Joe		|  150 | W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
 | Waffle Land	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 | 
 | Lightweight Contact Book	|   150 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br> https://7riple7hrea7.com/hacktivitycon/ctf/lightweight_contact_book/ |
 | Template Shack	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 |
@@ -20,7 +20,7 @@ WEB
 Binary Exploitation
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Pancakes|  75  |	Akay	| https://notakay.github.io/#/blog/pancake | 
+| Pancakes|  75  |	Akay<br>W3rni0	| https://notakay.github.io/#/blog/pancake<br>https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
 | Almost		|  100 | | |
 | Statics and Dynamics	|  100 | | |
 | Bullseye 	|  150 |  | |
@@ -31,8 +31,8 @@ Binary Exploitation
 CryptoGraphy
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Tyrannosaurus Rex	|  100 | | |
-| Perfect XOR	|  100 | | |
+| Tyrannosaurus Rex	|  100 |W3rni0  | https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
+| Perfect XOR	|  100 |W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
 | Bon Appetit	|  150 | | |
 | AESTHETIC	|  175  | | |
 | OFBuscated	|  200 | | |
