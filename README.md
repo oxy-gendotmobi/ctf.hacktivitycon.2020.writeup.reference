@@ -69,12 +69,12 @@ Scripting
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | Misdirection|  125  | flyme2bluemoon| https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
-| Prophecy|  125  | | |
-| Tootsie Pop	|  150 |  | |
-| Hashbrown Casserole	|  150 |  | |
-| Impartial |  150 | | |
-| Rescue Mission	|  175  | | |
-| Flushed	|  200 | | |
+| Prophecy|  125  | csivitu| https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Scripting/Prophecy|
+| Tootsie Pop	|  150 | csivitu |https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Scripting/Tootsie%20Pop |
+| Hashbrown Casserole	|  150 | csivitu | https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Scripting/Hashbrown%20Caserole|
+| Impartial |  150 | csivitu|https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Scripting/Impartial |
+| Rescue Mission	|  175  |csivitu | https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Scripting/Rescue%20Mission|
+| Flushed	|  200 | csivitu |https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Scripting/Flushed |
 
 Miscellaneous
 | Challenge  | Reward points | Author | WriteUp Link |
