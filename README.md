@@ -6,14 +6,11 @@ Pull requests for new writeup links are appreciated.
 WEB
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Ladybug	|  100 |	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 | 
-| \ | \ | 7riple7hrea7 | https://7riple7hrea7.com/hacktivitycon/ctf/Ladybug-HacktivityCon-CTF/ |
-| Bite		|  100 |	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 | 
-| \ | \ | 7riple7hrea7 | https://7riple7hrea7.com/hacktivitycon/ctf/Bite-HacktivityCon-CTF/ |
+| Ladybug	|  100 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br>https://7riple7hrea7.com/hacktivitycon/ctf/Ladybug-HacktivityCon-CTF/ | 
+| Bite		|  100 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br>https://7riple7hrea7.com/hacktivitycon/ctf/Bite-HacktivityCon-CTF/ | 
 | GI Joe		|  150 |  | |
 | Waffle Land	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 | 
-| Lightweight Contact Book	|   150 |	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 |
-| \  | \ | 7riple7hrea7 | https://7riple7hrea7.com/hacktivitycon/ctf/lightweight_contact_book/ |
+| Lightweight Contact Book	|   150 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br> https://7riple7hrea7.com/hacktivitycon/ctf/lightweight_contact_book/ |
 | Template Shack	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 |
 | Support Chat	|  200 | | |
 | Note Surfer	|  250 |  | |
