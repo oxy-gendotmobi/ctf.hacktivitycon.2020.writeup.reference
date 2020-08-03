@@ -56,7 +56,7 @@ Internet of Things
 Steganography 
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Spy vs. Spy	|  50 | | |
+| Spy vs. Spy	|  50 | csivitu | https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Steganography/Spy%20vs.%20Spy|
 | Cold War	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
 | Chess Cheater	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
 | Busted |  50 | | |
