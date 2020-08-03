@@ -89,14 +89,14 @@ Forensics
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | Opposable Thumks|  75  |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
-| Bizarro	|  100 | | |
-| Incredible Covert Malware Procedures	|  100 | | |
+| Bizarro	|  100 | turnipsoup | https://github.com/turnipsoup/ctfwriteups/tree/master/2020/hacktivitycon/bizarro|
+| Incredible Covert Malware Procedures	|  100 | turnipsoup|https://github.com/turnipsoup/ctfwriteups/tree/master/2020/hacktivitycon/covert-malware |
 | Zipper|  125  | | |
 
 OSINT
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Whale Watching	|  50 | | |
+| Whale Watching	|  50 | turnipsoup| https://github.com/turnipsoup/ctfwriteups/tree/master/2020/hacktivitycon/whale-watching|
 | World Hotspots	|  50 |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon%20CTF/writeup.md#world-hotspots |
 
 Warmups
