@@ -41,7 +41,7 @@ CryptoGraphy
 Mobile
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Mobile One	|  50 | Oxy-Gendotmobi |https://www.oxy-gen.mobi/blog-ctf-hacktivity2020.html |
+| Mobile One	|  50 | Oxy-Gendotmobi<br>flyme2bluemoon |https://www.oxy-gen.mobi/blog-ctf-hacktivity2020.html<br>https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
 | Pinocchio	|  100 | Oxy-Gendotmobi | https://www.oxy-gen.mobi/blog-ctf-hacktivity2020.html |
 | Just Not Interesting	|  300 | | |
 | Butterfly	|  300 | | |
@@ -57,18 +57,18 @@ Steganography
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | Spy vs. Spy	|  50 | | |
-| Cold War	|  50 | | |
-| Chess Cheater	|  50 | | |
+| Cold War	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
+| Chess Cheater	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
 | Busted |  50 | | |
 | Contracted	|  100 | | |
 | Fan Theory	|  150 |  | |
 | Unsubscribe	|  150 |  | |
-| Substitute Face	|  200 | | |
+| Substitute Face	|  200 |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
 
 Scripting	 
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Misdirection|  125  | | |
+| Misdirection|  125  | flyme2bluemoon| https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
 | Prophecy|  125  | | |
 | Tootsie Pop	|  150 |  | |
 | Hashbrown Casserole	|  150 |  | |
@@ -79,8 +79,8 @@ Scripting
 Miscellaneous
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Pseudo	|  100 | | |
-| Cat CAge	|  100 | | |
+| Pseudo	|  100 | flyme2bluemoon| https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
+| Cat CAge	|  100 |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
 | Visualism|  125  | | |
 | His Story	|  150 |  | |
 | Dumpster Diving	|  175  | | |
@@ -88,7 +88,7 @@ Miscellaneous
 Forensics
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
-| Opposable Thumks|  75  | | |
+| Opposable Thumks|  75  |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
 | Bizarro	|  100 | | |
 | Incredible Covert Malware Procedures	|  100 | | |
 | Zipper|  125  | | |
@@ -97,7 +97,7 @@ OSINT
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | Whale Watching	|  50 | | |
-| World Hotspots	|  50 | | |
+| World Hotspots	|  50 |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon%20CTF/writeup.md#world-hotspots |
 
 Warmups
 | Challenge  | Reward points | Author | WriteUp Link |
