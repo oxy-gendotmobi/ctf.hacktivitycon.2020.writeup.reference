@@ -81,7 +81,7 @@ Miscellaneous
 | ------------- | ------------- |------------- | ------------- |
 | Pseudo	|  100 | flyme2bluemoon| https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
 | Cat CAge	|  100 |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
-| Visualism|  125  | | |
+| Visualism|  125  |lirimkrosa | https://medium.com/@lirimkrosa1337/hacktivityctf-miscellaneous-visualism-writeup-e5804968c869|
 | His Story	|  150 |  | |
 | Dumpster Diving	|  175  | | |
 
