@@ -59,7 +59,7 @@ Steganography
 | Spy vs. Spy	|  50 | csivitu | https://github.com/csivitu/CTF-Write-ups/tree/master/HacktivityCon%20CTF/Steganography/Spy%20vs.%20Spy|
 | Cold War	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md |
 | Chess Cheater	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
-| Busted |  50 | | |
+| Busted |  50 | Oblivion | https://www.youtube.com/watch?v=ylrBH6xlvgU |
 | Contracted	|  100 | | |
 | Fan Theory	|  150 |  | |
 | Unsubscribe	|  150 |  | |
