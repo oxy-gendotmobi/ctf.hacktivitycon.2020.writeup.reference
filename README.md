@@ -26,7 +26,7 @@ Binary Exploitation
 | Bullseye 	|  150 |  | |
 | Bacon		|  200 | | |
 | Space Force |  350 | | |
-| What's In The Jar?	| 400 | | |
+| What's In The Jar?	| 400 | kiror0 | https://gist.github.com/kiror0/c39d0df167405c606ebd52fa48b0fb86 |
 
 CryptoGraphy
 | Challenge  | Reward points | Author | WriteUp Link |
