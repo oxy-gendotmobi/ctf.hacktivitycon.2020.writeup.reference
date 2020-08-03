@@ -14,7 +14,7 @@ WEB
 | Template Shack	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 |
 | Support Chat	|  200 | | |
 | Note Surfer	|  250 |  | |
-| Special Order	|  300 | | |
+| Special Order	|  300 | Ambrotd | https://github.com/Ambrotd/hacktivitycon/blob/master/Special%20Order/Special%20Order.md|
 | Pizza Time	|  750 |	Brett Buerhaus	| https://buer.haus/2020/07/31/hcktivitycon-pizza-time-web-750/ | 
 
 Binary Exploitation
