@@ -21,10 +21,10 @@ Binary Exploitation
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | Pancakes|  75  |	Akay<br>W3rni0	| https://notakay.github.io/#/blog/pancake<br>https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
-| Almost		|  100 | | |
-| Statics and Dynamics	|  100 | | |
-| Bullseye 	|  150 |  | |
-| Bacon		|  200 | | |
+| Almost		|  100 | OpenToAll | https://pwning.tech/2020/08/01/hacktivitycon-pwn/|
+| Statics and Dynamics	|  100 |OpenToAll | https://pwning.tech/2020/08/01/hacktivitycon-pwn/ |
+| Bullseye 	|  150 | OpenToAll | https://pwning.tech/2020/08/01/hacktivitycon-pwn/|
+| Bacon		|  200 |OpenToAll | https://pwning.tech/2020/08/01/hacktivitycon-pwn/|
 | Space Force |  350 | | |
 | What's In The Jar?	| 400 | kiror0 | https://gist.github.com/kiror0/c39d0df167405c606ebd52fa48b0fb86 |
 
