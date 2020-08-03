@@ -105,9 +105,9 @@ Warmups
 | Read The Rules|  5  | | |
 | CaesarMirror|  20  | | |
 | Common Place|  30  | | |
-| InternetCattos|  30  | | |
+| InternetCattos|  30  | wetox-team | https://github.com/wetox-team/writeup/tree/master/hacktivitycon/internet_cattos|
 | Hexgedit|  30  | | |
-| Private Investigator|  30  | | |
+| Private Investigator|  30  | wetox-team | https://github.com/wetox-team/writeup/tree/master/hacktivitycon/Private_Investigator|
 | Vencryption|  30  | | |
 | Spaghetti	|  50 | | |
 
