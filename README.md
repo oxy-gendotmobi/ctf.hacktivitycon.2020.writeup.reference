@@ -34,8 +34,8 @@ CryptoGraphy
 | Tyrannosaurus Rex	|  100 |W3rni0  | https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
 | Perfect XOR	|  100 |W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#tyrannosaurus-rex |
 | Bon Appetit	|  150 |Hong5489|https://github.com/Hong5489/HacktivityCTF/tree/master/bon_appetit |
-| AESTHETIC	|  175  | | 44 solves |
-| OFBuscated	|  200 | | 45 solves |
+| AESTHETIC	|  175  | W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#a-e-s-t-h-e-t-i-c|
+| OFBuscated	|  200 | W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#ofbuscated |
 | Shoebox	|  350 | | 7 solves |
 
 Mobile
