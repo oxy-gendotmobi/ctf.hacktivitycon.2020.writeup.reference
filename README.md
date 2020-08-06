@@ -36,7 +36,7 @@ CryptoGraphy
 | Bon Appetit	|  150 |Hong5489|https://github.com/Hong5489/HacktivityCTF/tree/master/bon_appetit |
 | AESTHETIC	|  175  | W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#a-e-s-t-h-e-t-i-c|
 | OFBuscated	|  200 | W3rni0 | https://github.com/W3rni0/HacktivityCon_CTF_2020#ofbuscated |
-| Shoebox	|  350 | | 7 solves |
+| Shoebox	|  350 |n/a | https://colab.research.google.com/drive/1qQZhiLdW6pFkk7KcOF3O8KA1H-rEw3s3?usp=sharing |
 
 Mobile
 | Challenge  | Reward points | Author | WriteUp Link |
@@ -50,7 +50,7 @@ Internet of Things
 | Challenge  | Reward points | Author | WriteUp Link |
 | ------------- | ------------- |------------- | ------------- |
 | IoT Itch	|  100 | | 103 solves |
-| Pretty Happy Web Processor	|  150 |  | 12 solves |
+| Pretty Happy Web Processor	|  150 | ministryofpwning | https://ministryofpwning.github.io/2020/07/pretty-happy-web-processor-solution/ |
 | YABO MIPS	|  200 | |12 solves |
 
 Steganography 
