@@ -61,7 +61,7 @@ Steganography
 | Chess Cheater	|  50 | flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
 | Busted |  50 | Oblivion | https://www.youtube.com/watch?v=ylrBH6xlvgU |
 | Contracted	|  100 | | 1 solve! |
-| Fan Theory	|  150 |  | 32 solves |
+| Fan Theory	|  150 | dunsp4rce | https://dunsp4rce.github.io/HacktivityCon-CTF/steganography/2020/08/03/Fan-Theory.html |
 | Unsubscribe	|  150 |  | 156 solves |
 | Substitute Face	|  200 |flyme2bluemoon | https://github.com/flyme2bluemoon/CTF-Writeups/blob/master/HacktivityCon CTF/writeup.md|
 
