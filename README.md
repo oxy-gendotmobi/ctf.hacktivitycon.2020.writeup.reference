@@ -12,7 +12,7 @@ WEB
 | Waffle Land	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 | 
 | Lightweight Contact Book	|   150 |	$hellbr3ak<br>7riple7hrea7	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73<br> https://7riple7hrea7.com/hacktivitycon/ctf/lightweight_contact_book/ |
 | Template Shack	|  150 | 	$hellbr3ak	| https://medium.com/@shellbr3ak/h-cktivitycon-web-88be6514b73 |
-| Support Chat	|  200 | | 11 solves |
+| Support Chat	|  200 | jimmyli | https://blog.jimmyli.us/articles/2020-08/Cross-Site-WebSocket-Hijacking-With-SocketIO |
 | Note Surfer	|  250 | gr455 | https://github.com/gr455/ctf-writeups/blob/master/hacktivity20/notes_surfer.md|
 | Special Order	|  300 | Ambrotd | https://github.com/Ambrotd/hacktivitycon/blob/master/Special%20Order/Special%20Order.md|
 | Pizza Time	|  750 |	Brett Buerhaus	| https://buer.haus/2020/07/31/hcktivitycon-pizza-time-web-750/ | 
